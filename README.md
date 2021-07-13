@@ -1,2 +1,7 @@
 # hello-world
-Sample repository as part of tutorial
+
+Hi All!
+
+This is about branching. I am trying to get refreshed on GitHub
+
+Cheers!
